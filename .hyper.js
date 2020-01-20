@@ -4,6 +4,15 @@
 
 module.exports = {
   config: {
+    
+    hyperTabs: {
+      trafficButtons: true
+    },
+    hypest: {
+      // Default is true
+      accentColor: 'green'
+    },
+    
     // choose either `'stable'` for receiving highly polished,
     // or `'canary'` for less polished but more frequent updates
     updateChannel: 'stable',
@@ -146,7 +155,7 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: ['hyperpower', 'hyper-hypest', 'hyper-search'],
+  plugins: ['hyperpower', 'hyper-search', 'hyper-tabs-enhanced', 'hyper-statusline', 'hyper-hypest'],
 
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
