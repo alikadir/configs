@@ -8,9 +8,11 @@ module.exports = {
     hyperTabs: {
       trafficButtons: true
     },
-    hypest: {
-      // Default is true
-      accentColor: 'green'
+    hypest: {      
+      // accentColor: 'green'
+      colors: {
+        blue: '#00a508' //darkgreen
+      }
     },
     
     // choose either `'stable'` for receiving highly polished,
