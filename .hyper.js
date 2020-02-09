@@ -23,8 +23,9 @@ module.exports = {
     fontSize: 14,
 
     // font family with optional fallbacks
-    fontFamily: 'Ubuntu Mono',
-
+    //fontFamily: 'Ubuntu Mono',
+    fontFamily: 'JetBrains Mono',
+    
     // default font weight: 'normal' or 'bold'
     fontWeight: 'normal',
 
