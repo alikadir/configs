@@ -4,3 +4,6 @@ https://github.com/zeit/hyperpower/pull/71/commits/7199428c6f3fd92eb35f2245a5c65
 
 ### autohotkey set startup
 %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+
+### autohotkey administrator 
+C:\Program Files\AutoHotkey\AutoHotKey.exe > Compatibility -> Run this program as administrator.
