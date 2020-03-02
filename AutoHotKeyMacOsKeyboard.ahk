@@ -1,8 +1,6 @@
-
 !d::
 MsgBox, Presset Alt + D ...
 return
-
 
 !c::Send, ^c
 !v::Send, ^v
@@ -12,11 +10,6 @@ return
 !s::Send, ^s
 !h::Send, ^h
 !a::Send, ^a
-
-; Commet + Shift + p
-!+p::
-Send, ^+p
-return
 
 ; Comment + Shift + 5
 !+5::
@@ -29,5 +22,8 @@ Sleep, 200
 Send {LWin}
 return
 
+LAlt::LCtrl 
+LCtrl::LAlt 
+
 ; comment text  
-; https://www.autohotkey.com/docs/KeyList.htm
+; https://www.autohotkey.com/docs/KeyList.htm.
