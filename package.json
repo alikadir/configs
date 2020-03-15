@@ -1,0 +1,5 @@
+ "prettier": {
+    "jsxBracketSameLine": true,
+    "singleQuote": true,
+    "printWidth": 110
+  }
