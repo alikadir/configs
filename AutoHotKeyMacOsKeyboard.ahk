@@ -22,8 +22,9 @@ Sleep, 200
 Send {LWin}
 return
 
-LAlt::LCtrl 
-LCtrl::LAlt 
+;Maybe later...
+;LAlt::LCtrl 
+;LCtrl::LAlt 
 
 ; comment text  
 ; https://www.autohotkey.com/docs/KeyList.htm.
