@@ -4,17 +4,16 @@
 
 module.exports = {
   config: {
-    
     hyperTabs: {
       trafficButtons: true
     },
-    hypest: {      
+    hypest: {
       // accentColor: 'green'
       colors: {
         blue: '#00a508' //darkgreen
       }
     },
-    
+
     // choose either `'stable'` for receiving highly polished,
     // or `'canary'` for less polished but more frequent updates
     updateChannel: 'stable',
@@ -24,8 +23,8 @@ module.exports = {
 
     // font family with optional fallbacks
     //fontFamily: 'Ubuntu Mono',
-    fontFamily: 'JetBrains Mono',
-    
+    fontFamily: 'SF Mono',
+
     // default font weight: 'normal' or 'bold'
     fontWeight: 'normal',
 
@@ -36,7 +35,7 @@ module.exports = {
     lineHeight: 1,
 
     // letter spacing as a relative unit
-    letterSpacing: 0,
+    letterSpacing: 1,
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: 'rgba(248,28,229,0.8)',
@@ -115,11 +114,8 @@ module.exports = {
     //
     // PowerShell on Windows
     // - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
-    
-    // shell: === MACOS not set shell   
-    // shell: 'C:\\Windows\\System32\\wsl.exe', === WINDOWS-LINUX
-    // shell: 'C:\\Program Files\\PowerShell\\6\\pwsh.exe' === POWERSHELL
-    
+    // shell: 'C:\\Windows\\System32\\wsl.exe',
+
     // for setting shell arguments (i.e. for using interactive shellArgs: `['-i']`)
     // by default `['--login']` will be used
     shellArgs: [],
