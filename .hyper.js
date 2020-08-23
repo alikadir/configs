@@ -8,7 +8,8 @@ module.exports = {
       trafficButtons: true
     },
     hypest: {
-      // accentColor: 'green'
+      vibrancy: true,
+      vibrancyVolume: 0.1,
       colors: {
         blue: '#00a508' //darkgreen
       }
@@ -157,7 +158,13 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: ['hyper-search', 'hyper-tabs-enhanced', 'hyper-statusline'],
+  plugins: [
+    'hyper-search',
+    'hyper-tabs-enhanced',
+    'hyper-statusline',
+    "hyperpower@git+https://github.com/alikadir/hyperpower.git",
+    "hyper-hypest@git+https://github.com/alikadir/hyper-hypest.git"
+  ],
 
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
