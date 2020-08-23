@@ -1,4 +1,5 @@
 ## Hyper
+*The following settings exist in hyper.js file* 
 ### hyper-power points opacity fix
 hyper i hyperpower@git+https://github.com/alikadir/hyperpower.git
 
