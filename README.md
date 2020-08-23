@@ -1,6 +1,8 @@
-### hyper-power opacity fix
-https://github.com/zeit/hyperpower/pull/71/commits/7199428c6f3fd92eb35f2245a5c650bb5a1d4313
-~/.hyper_plugins/node_modules
+### hyper-power points opacity fix
+hyper i hyperpower@git+https://github.com/alikadir/hyperpower.git
+
+### hypest increase blur effect
+hyper i hyper-hypest@git+https://github.com/alikadir/hyper-hypest.git
 
 ### autohotkey set startup
 %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
