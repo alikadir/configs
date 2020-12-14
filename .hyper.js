@@ -9,7 +9,7 @@ module.exports = {
     },
     hypest: {
       vibrancy: true,
-      vibrancyVolume: 0.1,
+      vibrancyLevel: 0.1,
       colors: {
         blue: '#00a508' //darkgreen
       }
@@ -163,7 +163,7 @@ module.exports = {
     'hyper-tabs-enhanced',
     'hyper-statusline',
     "hyperpower@git+https://github.com/alikadir/hyperpower.git",
-    "hyper-hypest@git+https://github.com/alikadir/hyper-hypest.git"
+    "hyper-hypest"
   ],
 
   // in development, you can create a directory under
