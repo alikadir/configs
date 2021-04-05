@@ -11,6 +11,10 @@ hyper i hyper-hypest@git+https://github.com/alikadir/hyper-hypest.git
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
 ```
+### MacOS native terminal settings file
+```
+Basic.terminal 
+```
 
 ## MacOS shortcut on Windows with AutoHotKey
 ### autohotkey set startup
