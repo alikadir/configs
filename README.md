@@ -14,7 +14,10 @@ defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-t
 ### MacOS native terminal settings file
 ```
 Basic.terminal 
-iTerm2Profile
+```
+### MacOS iTerm2 terminal settings file
+```
+com.googlecode.iterm2.plist (~/Library/Preferences/com.googlecode.iterm2.plist)
 ```
 
 ## MacOS shortcut on Windows with AutoHotKey
