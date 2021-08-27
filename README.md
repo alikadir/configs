@@ -26,3 +26,9 @@ com.googlecode.iterm2.plist (~/Library/Preferences/com.googlecode.iterm2.plist)
 
 ### autohotkey administrator 
 C:\Program Files\AutoHotkey\AutoHotKey.exe > Compatibility -> Run this program as administrator.
+
+## Git
+
+```
+"A Dog" = git log --all --decorate --oneline --graph
+```
