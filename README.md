@@ -19,6 +19,10 @@ Basic.terminal
 ```
 com.googlecode.iterm2.plist (~/Library/Preferences/com.googlecode.iterm2.plist)
 ```
+### MacOS install coreutil
+```
+brew install coreutils
+```
 
 ## MacOS shortcut on Windows with AutoHotKey
 ### autohotkey set startup
