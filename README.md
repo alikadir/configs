@@ -7,6 +7,9 @@ hyper i hyperpower@git+https://github.com/alikadir/hyperpower.git
 hyper i hyper-hypest@git+https://github.com/alikadir/hyper-hypest.git
 
 ## MacOS
+
+![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
+
 ### dock space
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
