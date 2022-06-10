@@ -67,7 +67,7 @@
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
-### dock space
+### Dock Space
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
 ```
