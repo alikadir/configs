@@ -7,17 +7,18 @@
 2. Trackpad > Point & Click > Click => Light
 3. Trackpad > More Gestures > App Expose
 4. Accessibility > Pointer Control > Enable dragging > three finger drag
-5. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
-6. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
-7. Keyboard > Shortcuts > Input Sources > Uncheck all
-8. Touch ID > right and left index finger + left ring finger
-9. Dock & Menu Bar > Size %25 
-10. Dock & Menu Bar > Magnification MAX
-11. Dock & Menu Bar > Uncheck => Show recent applications in Dock
-12. Sharing > AirPlay Receiver > Everyone
-13. Spotlight > Remove in menubar (drag with CMD)
-14. Spotligh > Uncheck => Developer (after install Xcode)
-15. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+5. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
+6. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
+7. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
+8. Keyboard > Shortcuts > Input Sources > Uncheck all
+9. Touch ID > right and left index finger + left ring finger
+10. Dock & Menu Bar > Size %25 
+11. Dock & Menu Bar > Magnification MAX
+12. Dock & Menu Bar > Uncheck => Show recent applications in Dock
+13. Sharing > AirPlay Receiver > Everyone
+14. Spotlight > Remove in menubar (drag with CMD)
+15. Spotligh > Uncheck => Developer (after install Xcode)
+16. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
 
 ### Finder
 
