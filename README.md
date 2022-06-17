@@ -12,13 +12,14 @@
 7. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
 8. Keyboard > Shortcuts > Input Sources > Uncheck all
 9. Touch ID > right and left index finger + left ring finger
-10. Dock & Menu Bar > Size %25 
-11. Dock & Menu Bar > Magnification MAX
-12. Dock & Menu Bar > Uncheck => Show recent applications in Dock
-13. Sharing > AirPlay Receiver > Everyone
-14. Spotlight > Remove in menubar (drag with CMD)
-15. Spotligh > Uncheck => Developer (after install Xcode)
-16. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+10. Language & Region > Uncheck => Time format: 24-Hour Time
+11. Dock & Menu Bar > Size %25 
+12. Dock & Menu Bar > Magnification MAX
+13. Dock & Menu Bar > Uncheck => Show recent applications in Dock
+14. Sharing > AirPlay Receiver > Everyone
+15. Spotlight > Remove in menubar (drag with CMD)
+16. Spotligh > Uncheck => Developer (after install Xcode)
+17. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
 
 ### Finder
 
