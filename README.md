@@ -66,7 +66,8 @@
 21. Speedtest
 22. Slack
 23. Zoom
-24. OneNote
+24. Teams
+25. OneNote
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
