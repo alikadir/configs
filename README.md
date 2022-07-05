@@ -41,7 +41,7 @@
    - Grammarly
    - Mia Translate
    - JSON Peep
-   - Octotree
+   - Octotree (optional)
 
 ### Applications
 
