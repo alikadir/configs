@@ -3,23 +3,24 @@
 
 ### System Preferences 
 
-1. Trackpad > Point & Click > Tracking speed +1
-2. Trackpad > Point & Click > Click => Light
-3. Trackpad > More Gestures > App Expose
-4. Accessibility > Pointer Control > Enable dragging > three finger drag
-5. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
-6. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
-7. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
-8. Keyboard > Shortcuts > Input Sources > Uncheck all
-9. Touch ID > right and left index finger + left ring finger
-10. Language & Region > Uncheck => Time format: 24-Hour Time
-11. Dock & Menu Bar > Size %25 
-12. Dock & Menu Bar > Magnification MAX
-13. Dock & Menu Bar > Uncheck => Show recent applications in Dock
-14. Sharing > AirPlay Receiver > Everyone
-15. Spotlight > Remove in menubar (drag with CMD)
-16. Spotligh > Uncheck => Developer (after install Xcode)
-17. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+1. Trackpad > Point & Click > Tab to click
+2. Trackpad > Point & Click > Tracking speed +2
+3. Trackpad > Point & Click > Click => Light
+4. Trackpad > More Gestures > App Expose
+5. Accessibility > Pointer Control > Enable dragging > three finger drag
+6. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
+7. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
+8. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
+9. Keyboard > Shortcuts > Input Sources > Uncheck all
+10. Touch ID > right and left index finger + left ring finger
+11. Language & Region > Uncheck => Time format: 24-Hour Time
+12. Dock & Menu Bar > Size %25 
+13. Dock & Menu Bar > Magnification MAX
+14. Dock & Menu Bar > Uncheck => Show recent applications in Dock
+15. Sharing > AirPlay Receiver > Everyone
+16. Spotlight > Remove in menubar (drag with CMD)
+17. Spotligh > Uncheck => Developer (after install Xcode)
+18. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
 
 ### Finder
 
