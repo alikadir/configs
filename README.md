@@ -52,24 +52,24 @@
 3. [Xcode](https://apps.apple.com/tr/app/xcode/id497799835)
 4. [iTerm2](https://iterm2.com/downloads.html)
 5. [Oh My Zsh](https://ohmyz.sh/#install)
-6. Homebrew
-8. Fig
-10. RunJS
-11. VScode
-12. Postman
-13. Chrome
-14. Sourcetree
-15. MongoDB Compass
-16. Docker
-17. Figma
-18. Whimsical
-19. Whatsapp
-20. Telegram
-21. Speedtest
-22. Slack
-23. Zoom
-24. Teams
-25. OneNote
+6. [Homebrew](https://brew.sh/index_tr)
+8. [Fig](https://fig.io)
+10. [RunJS](https://runjs.app/#platforms)
+11. [VScode](https://code.visualstudio.com/Download)
+12. [Postman](https://www.postman.com/downloads)
+13. [Chrome](https://www.google.com/intl/tr_tr/chrome)
+14. [Sourcetree](https://www.sourcetreeapp.com)
+15. [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+16. [Docker](https://www.docker.com/get-started)
+17. [Figma](https://www.figma.com/downloads)
+18. [Whimsical](https://whimsical.com)
+19. [Whatsapp](https://apps.apple.com/tr/app/whatsapp-desktop/id1147396723)
+20. [Telegram](https://apps.apple.com/tr/app/telegram/id747648890)
+21. [Speedtest](https://apps.apple.com/tr/app/speedtest-by-ookla/id1153157709)
+22. [Slack](https://apps.apple.com/tr/app/slack-for-desktop/id803453959)
+23. [Zoom](https://zoom.us/download#client_4meeting)
+24. [Teams](https://www.microsoft.com/tr-tr/microsoft-teams/download-app#desktopAppDownloadregion)
+25. [OneNote](https://apps.apple.com/tr/app/microsoft-onenote/id784801555)
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
