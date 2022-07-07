@@ -45,13 +45,13 @@
 
 ### Applications
 
-1. Jetbrains Toolbar
+1. [Jetbrains Toolbar](https://www.jetbrains.com/toolbox-app/)
    - WebStorm
    - DataGrip
    - Rider
-3. Xcode
-4. iTerm2
-5. Oh My Zsh
+3. [Xcode](https://apps.apple.com/tr/app/xcode/id497799835)
+4. [iTerm2](https://iterm2.com/downloads.html)
+5. [Oh My Zsh](https://ohmyz.sh/#install)
 6. Homebrew
 8. Fig
 10. RunJS
