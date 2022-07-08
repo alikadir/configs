@@ -22,6 +22,7 @@
 17. Spotlight > Remove in menubar (drag with CMD)
 18. Spotligh > Uncheck => Developer (after install Xcode)
 19. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+20. Displays > Night Shift > Schedule (Sunset to Sunrise) + Less Warm (lowest)
 
 ### Finder
 
