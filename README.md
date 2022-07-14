@@ -73,6 +73,7 @@
 25. [OneNote](https://apps.apple.com/tr/app/microsoft-onenote/id784801555)
 26. [Worms W.M.D](https://nmac.to/blog/worms-w-m-d)
 27. [1.1.1.1 CloudFlare](https://1.1.1.1)
+28. [Redis Insight](https://redis.com/redis-enterprise/redis-insight/)
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
