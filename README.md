@@ -40,7 +40,7 @@
 4. Extensions 
    - AdGuard
    - Grammarly
-   - Mia Translate
+   - PiPifier
    - JSON Peep
    - Octotree (optional)
 
