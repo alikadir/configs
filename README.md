@@ -37,7 +37,8 @@
 1. Tabs > Tab layout: Compact
 2. Advanced > Show Developer menu
 3. Advanced > Show full website adress
-4. Extensions 
+4. For Pip, Right click to the Tab speaker icon 
+5. Extensions 
    - AdGuard
    - Grammarly
    - PiPifier
