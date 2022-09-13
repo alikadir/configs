@@ -83,7 +83,7 @@
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
 ```
 
-### MacOS iTerm2 terminal settings file
+### MacOS iTerm2 terminal settings file (w/ trigger of password manager)
 ```
 com.googlecode.iterm2.plist (~/Library/Preferences/com.googlecode.iterm2.plist)
 ```
