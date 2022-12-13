@@ -77,6 +77,8 @@
 28. [RedisInsight](https://redis.com/redis-enterprise/redis-insight)
 29. [Parallels Desktop Apple Silicon](https://nmac.to/site/parallels-desktop)
 30. [Reverso](https://context.reverso.net/translation/windows-mac-app)
+31. [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
+
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
