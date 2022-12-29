@@ -79,6 +79,7 @@
 30. [Reverso](https://context.reverso.net/translation/windows-mac-app)
 31. [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
 32. [Disk Inventory X](https://www.derlien.com)
+33. [Beyond Compare](https://www.scootersoftware.com/download.php)
 
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
