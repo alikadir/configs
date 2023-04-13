@@ -82,6 +82,7 @@
 33. [Beyond Compare](https://www.scootersoftware.com/download.php)
 34. [Navicat Premium](https://nmac.to/navicat-premium) ```$ xattr -dr com.apple.quarantine "/Applications/Navicat Premium.app"```
 35. [LyricsX](https://github.com/ddddxxx/LyricsX)
+36. [Kafka IDE](https://kafkaide.com)
 
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
