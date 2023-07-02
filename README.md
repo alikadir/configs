@@ -3,26 +3,26 @@
 
 ### System Preferences 
 
-1. Trackpad > Point & Click > Tab to click
-2. Trackpad > Point & Click > Tracking speed +2
+1. Trackpad > Point & Click > Uncheck => Tab to click 
+2. Trackpad > Point & Click > Tracking speed +1
 3. Trackpad > Point & Click > Click => Light
-4. Trackpad > More Gestures > App Expose
-5. Accessibility > Pointer Control > Trackpad Options > Enable dragging > three finger drag
-6. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
-7. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
-8. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
-9. Keyboard > Shortcuts > Input Sources > Uncheck all
-10. Touch ID > right and left index finger + left ring finger
-11. Language & Region > Uncheck => Time format: 24-Hour Time
-12. Dock & Menu Bar > Size %25 
-13. Dock & Menu Bar > Magnification MAX
-14. Dock & Menu Bar > Uncheck => Show recent applications in Dock
-15. Dock & Menu Bar > Check => Minimize windows into application icon
-16. Sharing > AirPlay Receiver > Everyone
-17. Spotlight > Remove in menubar (drag with CMD)
-18. Spotligh > Uncheck => Developer (after install Xcode)
-19. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
-20. Displays > Night Shift > Schedule (Sunset to Sunrise) + Less Warm (lowest)
+4. Trackpad > Point & Click > Silent clicking for external trackpad
+7. Trackpad > More Gestures > App Expose
+8. Accessibility > Pointer Control > Trackpad Options > Enable dragging > three finger drag
+9. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
+10. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
+11. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
+12. Touch ID > right and left index finger + left ring finger
+13. Language & Region > Uncheck => Time format: 24-Hour Time
+14. Dock & Menu Bar > Size %25 
+15. Dock & Menu Bar > Magnification MAX
+16. Dock & Menu Bar > Uncheck => Show recent applications in Dock
+17. Dock & Menu Bar > Check => Minimize windows into application icon
+18. Sharing > AirPlay Receiver > Everyone
+19. Spotlight > Remove in menubar (drag with CMD)
+20. Spotligh > Uncheck => Developer (after install Xcode)
+21. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+22. Displays > Night Shift > Schedule (Sunset to Sunrise) + Less Warm (lowest)
 
 ### Finder
 
@@ -83,6 +83,7 @@
 34. [Navicat Premium](https://nmac.to/navicat-premium) ```$ xattr -dr com.apple.quarantine "/Applications/Navicat Premium.app"```
 35. [LyricsX](https://github.com/ddddxxx/LyricsX)
 36. [Kafka IDE](https://kafkaide.com)
+37. [LG Monitor Control for brightness](https://github.com/MonitorControl/MonitorControl)
 
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
