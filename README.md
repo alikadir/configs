@@ -84,6 +84,7 @@
 35. [LyricsX](https://github.com/ddddxxx/LyricsX)
 36. [Kafka IDE](https://kafkaide.com)
 37. [LG Monitor Control for brightness](https://github.com/MonitorControl/MonitorControl)
+38. [Finder Previewer](https://github.com/whomwah/qlstephen)
 
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
