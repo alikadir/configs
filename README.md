@@ -85,6 +85,7 @@
 36. [Kafka IDE](https://kafkaide.com)
 37. [LG Monitor Control for brightness](https://github.com/MonitorControl/MonitorControl)
 38. [Finder Previewer](https://github.com/whomwah/qlstephen)
+39. [Volume Control (AirPlay)](https://github.com/alberti42/Volume-Control)
 
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
