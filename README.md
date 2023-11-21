@@ -100,6 +100,12 @@ defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-t
 com.googlecode.iterm2.plist (~/Library/Preferences/com.googlecode.iterm2.plist)
 ```
 
+### Make booklet from PDF
+https://online2pdf.com
+
+![booklet settings](https://raw.githubusercontent.com/alikadir/configs/main/pdf-booklet.png)
+![printer settings](https://raw.githubusercontent.com/alikadir/configs/main/printer-booklet.jpeg)
+
 ### Homebrew packages
 ```
 brew install coreutils
