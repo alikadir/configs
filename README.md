@@ -89,6 +89,7 @@
 40. [Raycast](https://www.raycast.com)
     - aaa extension
     - bbb extension
+41. [Stats](https://github.com/exelban/stats)
       
 
 
