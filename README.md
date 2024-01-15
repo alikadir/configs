@@ -140,7 +140,7 @@ Step 1 Print the PDF (cmd+P)
 
 Step 2 Print the PDF (cmd+P)
 - Orientation: Landscape
-- Paper Handling > Sheets to Print > Odd Only
+- Paper Handling > Sheets to Print > Even Only
 
 
 ## Git
