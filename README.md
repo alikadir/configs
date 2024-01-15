@@ -132,7 +132,15 @@ npm install -g typescript
 https://online2pdf.com
 
 ![booklet settings](https://raw.githubusercontent.com/alikadir/configs/main/pdf-booklet.png?)
+Step 1 Print the PDF (cmd+P)
+- Orientation: Landscape
+- Paper Handling > Sheets to Print > Odd Only
+
 ![printer settings](https://raw.githubusercontent.com/alikadir/configs/main/printer-booklet.jpeg)
+
+Step 2 Print the PDF (cmd+P)
+- Orientation: Landscape
+- Paper Handling > Sheets to Print > Odd Only
 
 
 ## Git
