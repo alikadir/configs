@@ -90,6 +90,7 @@
     - aaa extension
     - bbb extension
 41. [Stats](https://github.com/exelban/stats)
+42. [Cyberduck](https://cyberduck.io/download/)
       
 
 
