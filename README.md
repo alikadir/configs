@@ -96,6 +96,8 @@
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
+![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/iterm_classic_1984_mac.png)
+
 ### Dock Space
 ```
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
