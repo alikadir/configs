@@ -55,6 +55,7 @@
 4. [iTerm2](https://iterm2.com/downloads.html)
 5. [Oh My Zsh](https://ohmyz.sh/#install)
 6. [Homebrew](https://brew.sh/index_tr)
+7. [Proxyman (don't install new version because of strict licensing rules.) ](https://github.com/ProxymanApp/Proxyman/releases/tag/5.11.0)
 8. [Fig](https://fig.io)
 10. [RunJS](https://runjs.app/#platforms)
 11. [VScode](https://code.visualstudio.com/Download)
