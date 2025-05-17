@@ -92,6 +92,8 @@
     - bbb extension
 41. [Stats](https://github.com/exelban/stats)
 42. [Cyberduck](https://cyberduck.io/download/)
+43. [CoolTerm for Serial Communication](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
+44. [REW for Oscilloscope (Scope feature)](https://www.roomeqwizard.com)
       
 
 
