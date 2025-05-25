@@ -97,6 +97,10 @@
 45. [Logic 2 for Logic Analyzer](https://www.saleae.com/pages/downloads?srsltid=AfmBOoosDXpuy9nFE3UXR8Y-dqn8MpLVRrRNEPHCHx-vrrDWjUQZcuq0)
       
 
+### RunJS and Termius Proxy Scripts
+https://raw.githubusercontent.com/alikadir/configs/main/proxyman-RUNJS-scripts.config
+https://raw.githubusercontent.com/alikadir/configs/main/proxyman-Termius-scripts.config
+
 
 ![my macos dock](https://raw.githubusercontent.com/alikadir/configs/main/dock.png)
 
