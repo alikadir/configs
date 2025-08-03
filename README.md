@@ -11,18 +11,19 @@
 8. Accessibility > Pointer Control > Trackpad Options > Enable dragging > three finger drag
 9. Accessibility > Zoom > Use scroll gesture with modifier keys (^Control)
 10. Keyboard > Keyboard > Key Repeat and Delay Until Repeat + MAX
-11. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
-12. Touch ID > right and left index finger + left ring finger
-13. Language & Region > Uncheck => Time format: 24-Hour Time
-14. Dock & Menu Bar > Size %25 
-15. Dock & Menu Bar > Magnification MAX
-16. Dock & Menu Bar > Uncheck => Show recent applications in Dock
-17. Dock & Menu Bar > Check => Minimize windows into application icon
-18. Sharing > AirPlay Receiver > Everyone
-19. Spotlight > Remove in menubar (drag with CMD)
-20. Spotligh > Uncheck => Developer (after install Xcode)
-21. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
-22. Displays > Night Shift > Schedule (Sunset to Sunrise) + Less Warm (lowest)
+11. For Keyboad HoldPopup for Turkish Characters ```defaults write -g ApplePressAndHoldEnabled -bool true && killall SystemUIServer```
+12. Keyboard > Text > Uncheck => Correct spelling + Capitalize + Add period
+13. Touch ID > right and left index finger + left ring finger
+14. Language & Region > Uncheck => Time format: 24-Hour Time
+15. Dock & Menu Bar > Size %25 
+16. Dock & Menu Bar > Magnification MAX
+17. Dock & Menu Bar > Uncheck => Show recent applications in Dock
+18. Dock & Menu Bar > Check => Minimize windows into application icon
+19. Sharing > AirPlay Receiver > Everyone
+20. Spotlight > Remove in menubar (drag with CMD)
+21. Spotligh > Uncheck => Developer (after install Xcode)
+22. Security & Privacy > General > Use your Apple Watch to unlock apps and your Mac
+23. Displays > Night Shift > Schedule (Sunset to Sunrise) + Less Warm (lowest)
 
 ### Finder
 
