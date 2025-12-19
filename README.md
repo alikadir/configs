@@ -96,6 +96,7 @@
 43. [CoolTerm for Serial Communication](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
 44. [REW for Oscilloscope (Scope feature)](https://www.roomeqwizard.com)
 45. [Logic 2 for Logic Analyzer](https://www.saleae.com/pages/downloads?srsltid=AfmBOoosDXpuy9nFE3UXR8Y-dqn8MpLVRrRNEPHCHx-vrrDWjUQZcuq0)
+46. [rCMD](https://lowtechguys.com/rcmd/)
       
 
 ### RunJS and Termius Proxy Scripts
