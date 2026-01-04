@@ -88,12 +88,9 @@
 37. [LG Monitor Control for brightness](https://github.com/MonitorControl/MonitorControl)
 38. [Finder Previewer](https://github.com/whomwah/qlstephen)
 39. [Volume Control (AirPlay)](https://github.com/alberti42/Volume-Control)
-40. [Raycast](https://www.raycast.com)
-    - aaa extension
-    - bbb extension
 41. [Stats](https://github.com/exelban/stats)
 42. [Cyberduck](https://cyberduck.io/download/)
-43. [CoolTerm for Serial Communication](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
+43. [CoolTerm for Serial Communication & Serial Plotter (View -> Chart)](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)
 44. [REW for Oscilloscope (Scope feature)](https://www.roomeqwizard.com)
 45. [Logic 2 for Logic Analyzer](https://www.saleae.com/pages/downloads?srsltid=AfmBOoosDXpuy9nFE3UXR8Y-dqn8MpLVRrRNEPHCHx-vrrDWjUQZcuq0)
 46. [rCMD](https://lowtechguys.com/rcmd/)
