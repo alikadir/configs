@@ -94,6 +94,7 @@
 44. [REW for Oscilloscope (Scope feature)](https://www.roomeqwizard.com)
 45. [Logic 2 for Logic Analyzer](https://www.saleae.com/pages/downloads?srsltid=AfmBOoosDXpuy9nFE3UXR8Y-dqn8MpLVRrRNEPHCHx-vrrDWjUQZcuq0)
 46. [rCMD](https://lowtechguys.com/rcmd/)
+47. [CH341A Progrrammer Software IMSProg (build.zip)](https://github.com/alikadir/IMSProg/blob/main/IMSProg_Programmer-build.zip)
       
 
 ### RunJS and Termius Proxy Scripts
